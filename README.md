@@ -18,10 +18,6 @@
 
 <img src="https://s7.ezgif.com/tmp/ezgif-7-60526bf0d9.gif">
 
-## Mobile Site
-
-<img src="https://s7.ezgif.com/tmp/ezgif-7-da5cc01f38.gif">
-
 
 ## Validação de Login - Web Development
 
