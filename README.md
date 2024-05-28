@@ -13,21 +13,14 @@
 <p>🇧🇷 | Usando HTML, CSS e Javascript!</p>
 <p>🇺🇸 | Using HTML, CSS and Javascript!</p>
 
-## Desktop Website 
 
-<br>
+## Desktop Site
 
-<img src="https://s7.ezgif.com/tmp/ezgif-7-60526bf0d9.gif"/>
+<img src="https://s7.ezgif.com/tmp/ezgif-7-60526bf0d9.gif">
 
-<br>
+## Mobile Site
 
-## Cellphone Website 
-
-<br>
-
-<!-- <img src="https://s3.ezgif.com/tmp/ezgif-3-edcc0ac94b.gif"/> -->
-
-<br>
+<img src="https://s7.ezgif.com/tmp/ezgif-7-da5cc01f38.gif">
 
 
 ## Validação de Login - Web Development
