@@ -19,6 +19,10 @@
 
 <img src="/assets/img/GIFMaker_me.gif">
 
+## Mobile Site
+
+<img src="/assets/img/GIF_CELL.gif">
+
 
 ## Validação de Login - Web Development
 
