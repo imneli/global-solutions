@@ -25,7 +25,7 @@
 
 <br>
 
-<img src="https://s3.ezgif.com/tmp/ezgif-3-edcc0ac94b.gif"/>
+<!-- <img src="https://s3.ezgif.com/tmp/ezgif-3-edcc0ac94b.gif"/> -->
 
 <br>
 
