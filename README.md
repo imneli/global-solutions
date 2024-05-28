@@ -8,6 +8,7 @@
 <li>RM 557789 - Thomaz Morais Neves </li>
 <li>RM 555768 - Guilherme Linard </li>
 
+
 # Responsive Website
 
 <p>🇧🇷 | Usando HTML, CSS e Javascript!</p>
@@ -15,7 +16,8 @@
 
 
 ## Desktop Site
-<img src="https://s7.ezgif.com/tmp/ezgif-7-60526bf0d9.gif">
+
+<img src="/assets/img/GIFMaker_me.gif">
 
 
 ## Validação de Login - Web Development
