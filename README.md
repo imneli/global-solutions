@@ -1,6 +1,6 @@
 # Global Solution - Blue Future 🌊
 
-## Nomes
+## Nomes & RM's
 
 <h2>
 
@@ -13,16 +13,24 @@
 <p>🇧🇷 | Usando HTML, CSS e Javascript!</p>
 <p>🇺🇸 | Using HTML, CSS and Javascript!</p>
 
-## Desktop Site 
+## Desktop Website 
 
-<img src="https://s3.ezgif.com/tmp/ezgif-3-0e1e41f2c5.gif"/>
+<br>
 
-## Cellphone Site 
+<img src="https://s7.ezgif.com/tmp/ezgif-7-60526bf0d9.gif"/>
+
+<br>
+
+## Cellphone Website 
+
+<br>
 
 <img src="https://s3.ezgif.com/tmp/ezgif-3-edcc0ac94b.gif"/>
 
+<br>
 
-## Validação de Login
+
+## Validação de Login - Web Development
 
 <p>Usuário: admin</p>
 <p>Senha: admin</p>
