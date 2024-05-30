@@ -74,11 +74,16 @@
     border: none;
 }
 
+
 #btnLogar {
     cursor: pointer;
     background-color: var(--primary-color);
     color: #fefefe;
     border: none;
+}
+
+.criar {
+  text-align: center;
 }
 
 .carrossel {

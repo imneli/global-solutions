@@ -10,6 +10,10 @@ botao.addEventListener('click', function logar(){
 
     if(pegaUsuario === user && pegaSenha === passw){
         alert('Senha válida!')
+        document.querySelector('.display_none').style.display = "none";
+        document.querySelector('.display_none_p').style.display = "none";
+        document.getElementById('add_h1').innerHTML = '<h1>Você logou com sucesso!</h1>';
+        document.getElementById('add_h1').style.textAlign = "center"
     } else {
         alert('Senha Invalida!')
     }
