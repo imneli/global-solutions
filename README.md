@@ -12,7 +12,7 @@
 
 <img src="docs/img/png_readme.png">
 
-<h2>Link da simulação no <strong><a href="https://www.tinkercad.com/things/3geKbB7ydkX-gs-blue-future-monitoramento-de-temp?sharecode=3_KM0jg6uO8vS7xDiWb8SzA6_7vfyC71Rq7_B752mqs">Tinkercad</a></strong> e vídeo no <a href="https://www.youtube.com/watch?v=WfURIh0acIw">Youtube</a></h2>
+<h2>Link da simulação no <strong><a href="https://www.tinkercad.com/things/3geKbB7ydkX-gs-blue-future-monitoramento-de-temp?sharecode=3_KM0jg6uO8vS7xDiWb8SzA6_7vfyC71Rq7_B752mqs">Tinkercad</a></strong> e vídeo no <a href="https://www.youtube.com/watch?v=C7mjLcTkaTc">Youtube</a></h2>
 
 
 <li> 🟢 Verde: Temperatura adequada. </li>
