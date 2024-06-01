@@ -29,7 +29,7 @@
 <li>1x LCD 16x2</li>
 
 
-## Explicando o <a href="">Código</a>
+## Explicando o <a href="https://github.com/imneli/global-solutions/blob/global-edge/arduino.c">Código</a>
 
 ```C
 #include <LiquidCrystal.h>
