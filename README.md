@@ -114,3 +114,7 @@ Neste bloco, dentro da função `loop()`, o display LCD é limpo e a leitura do 
 ## Objetivo
 
 Este código monitora continuamente a temperatura do oceano, emitindo alertas `visuais e sonoros` quando a temperatura ultrapassa ou volta ao normal. Ele fornece `feedback visual e audível` para ajudar a monitorar a temperatura dentro de limites desejados.
+
+## License
+
+Este projeto é licenciado sob a <strong>[Licença MIT](LICENSE).</strong>
