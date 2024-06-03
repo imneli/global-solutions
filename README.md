@@ -56,7 +56,7 @@ botao.addEventListener('click', function logar(){
 })
 ```
 
-Caso a Senha seja diferente da senha cadastrada no painel, irá dar um alert dizendo que a senha está incorreta, caso a senha esteja correta a validação de login é feita e aplica um alert dizendo que a senha está correta.
+Caso a Senha seja diferente da senha cadastrada no painel, irá dar um `alert` dizendo que a senha está incorreta, caso a senha esteja correta a validação de login é feita e aplica um `alert` dizendo que a senha está correta. Após isso usamos o DOM para alterar o Display da página e fazer com que as tags `</p> & </input>` sejam removidas e assim adicionado uma tag `</h1>` falando que o Login foi realizado.
 
 ## `Código - Carrossel`
 
@@ -80,7 +80,11 @@ function slider() {
 setInterval(slider, 2000);
 ```
 
-È aplicado um contador e um Intervalo para passar as imagens, ele muda o eixo X para trocar para próxima imagem utilizando o "translateX", criamos uma função chamada Slider para aplicar este contador e usamos o Transform para alterar as imagens.
+É aplicado um contador e um Intervalo para passar as imagens, ele muda o eixo X para trocar para próxima imagem utilizando o `"translateX"`, criamos uma função chamada `Slider` para aplicar este contador e usamos o `Transform` para alterar as imagens.
 
 <h2>🇧🇷 | Obrigado por ler até aqui!</h2>
 <h2>🇺🇸 | Thank you for reading this far!</h2>
+
+## License
+
+Este projeto é licenciado sob a <strong>[Licença MIT](LICENSE).</strong>
