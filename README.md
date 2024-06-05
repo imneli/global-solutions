@@ -82,8 +82,43 @@ setInterval(slider, 2000);
 
 É aplicado um contador e um Intervalo para passar as imagens, ele muda o eixo X para trocar para próxima imagem utilizando o `"translateX"`, criamos uma função chamada `Slider` para aplicar este contador e usamos o `Transform` para alterar as imagens.
 
-<h2>🇧🇷 | Obrigado por ler até aqui!</h2>
-<h2>🇺🇸 | Thank you for reading this far!</h2>
+## Soluções / Tecnologias
+
+`Oceans 20` propõe uma abordagem multifacetada para lidar com a poluição dos oceanos:
+
+### 1. Sistema de Monitoramento Contínuo
+
+Implementação de um sistema de monitoramento contínuo da temperatura e elevação dos oceanos em pontos estratégicos. Utilizaremos tecnologias avançadas de sensoriamento remoto e estações de coleta de dados para identificar os países que mais contribuem para a poluição dos oceanos.
+
+### 2. Website Interativo
+
+Desenvolvimento de um website interativo dedicado à conscientização sobre a poluição dos oceanos e ao monitoramento contínuo dos dados coletados. Este website será uma plataforma central para divulgar informações relevantes, notícias sobre preservação marinha e iniciativas de combate à poluição dos oceanos.
+
+### 3. Sistema de Previsão de Dados
+
+Desenvolvimento de um sistema de previsão de dados utilizando a linguagem de programação Python. Este sistema integrará os dados coletados pelo sistema de monitoramento com modelos de análise de dados e algoritmos de aprendizado de máquina para prever tendências futuras na poluição dos oceanos, variações climáticas e impactos ambientais.
+
+
+
+## Objetivos
+
+<li>`Monitorar continuamente` os parâmetros ambientais dos oceanos.</li>
+<li>Disponibilizar `dados de monitoramento em tempo real` para acesso público.</li>
+<li>Prever `tendências futuras` na poluição dos oceanos e impactos ambientais.</li>
+<li>Apoiar tomadores de decisão e organizações ambientais com informações atualizadas.</li>
+
+## Benefícios
+
+<li>Aumento da conscientização pública sobre a importância da preservação dos oceanos.</li>
+<li>Melhor compreensão das causas e efeitos da poluição dos oceanos.</li>
+<li>Capacidade aprimorada de resposta a desastres naturais relacionados aos oceanos.</li>
+<li>Facilitação da colaboração entre pesquisadores, organizações ambientais e governos.</li>
+
+## Agradecimentos!
+
+### 🇧🇷 | Obrigado por ler até aqui!
+
+### 🇺🇸 | Thank you for reading this far!
 
 ## License
 
