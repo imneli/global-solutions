@@ -200,36 +200,25 @@
       <div class="intro-img">
         <img src="assets/img/login.svg" alt="Logo de HTML, CSS e JS.">
       </div>
-      <div class="contact-form">
-        <fieldset class="form-grid">
-          <legend>Contact the Blue Future</legend>
+      
+        <div class="contact-form">
+          <fieldset class="form-grid">
+            <legend>Contact the Blue Future</legend>
 
-          <div class="form-group">
-            <label for="first-name">First name</label>
-            <input type="text" name="first-name" id="first-name" placeholder="Your name" autocomplete="off" required>
-          </div>
-
-          <div class="form-group">
-            <label for="last-name">last name</label>
-            <input type="text" name="last-name" id="last-name" placeholder="Your last name" autocomplete="off" required>
-          </div>
-
-          <div class="form-group">
-            <label for="email">E-mail</label>
-            <input type="email" name="email" id="email" placeholder="Your e-mail" autocomplete="on" required>
-          </div>
-
-          <div class="form-group full-width">
-            <label for="message">Message</label>
-            <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
-          </div>
-
-          <div class="form-group full-width">
-            <button type="submit">Send message</button>
-          </div>
-        </fieldset>
-      </div>  
-    </div>
+            <form action="" class="contact-form form-group formulario">
+                <label for="first-name">First name</label>
+                <input type="text" name="first-name" class="nome validar" id="first-name" placeholder="Your name" autocomplete="off" required>
+                <label for="last-name">last name</label>
+                <input type="text" name="last-name" class="sobrenome validar" id="last-name" placeholder="Your last name" autocomplete="off" required>
+                <label for="email">E-mail</label>
+                <input type="email" name="email" class="validar"  id="email" placeholder="Your e-mail" autocomplete="on" required>
+                <label for="message">Message</label>
+                <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message" required></textarea>
+                <button id="btn_test" type="submit">Send message</button>
+          </form>
+          </fieldset>
+        </div>
+      </div>
   </section>
 
 
@@ -244,6 +233,8 @@
   </footer>
 
   <a class="back-to-top" href="/">➤</a>
+
+  <script src="/assets/js/forms.js"></script>
 </body>
 
 </html>

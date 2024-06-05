@@ -24,12 +24,83 @@
 <img src="/assets/img/GIF_CELL.gif">
 
 
-## Validação de Login - Web Development
+## Validações - Web Development
+
+
+## `Código - Validate Form`
+
+```JS
+
+class ValidateForm {
+    constructor() {
+      this.formulario = document.querySelector('.formulario');
+      this.eventos();
+    }
+  
+    eventos() {
+      this.formulario.addEventListener('submit', e => {
+        this.handleSubmit(e);
+      });
+    }
+  
+    handleSubmit(e) {
+      e.preventDefault();
+      const validFields = this.isValid();
+
+      if(validFields) {
+        alert('Formulário enviado.');
+        this.formulario.submit();
+      }
+    }
+  
+    isValid() {
+      let valid = true;
+      return valid;
+    }
+  
+    validaUsuario(campo) {
+      let valid = true;
+      return valid;
+    }
+  }
+  
+  const validate = new ValidateForm();
+
+```
+
+### 1. Construtor:
+
+Quando uma instância de `ValidateForm` é criada, ela seleciona o elemento do formulário com o nome de classe `.formulario` no documento HTML e configura os ouvintes de eventos.
+
+### 2. Manipulação de Eventos: 
+
+O método `eventos()` adiciona um ouvinte de evento ao evento de envio do formulário. Quando o formulário é enviado, ele chama o método `handleSubmit()`.
+
+### 3. Tratamento do Envio do Formulário:
+
+No método `handleSubmit()`, ele impede o comportamento padrão de envio do formulário usando `e.preventDefault()`. Em seguida, chama o método `isValid()` para verificar se os campos do formulário são válidos. Se forem, exibe uma mensagem de alerta informando que o formulário foi enviado e envia o formulário programaticamente.
+
+### 4. Tratamento do Envio do Formulário:
+
+ O método `isValid()` atualmente retorna `true` por padrão, indicando que todos os campos do formulário são válidos. Este método normalmente conteria lógica de validação para cada campo do formulário, retornando `false` se algum campo não passar na validação.
+
+### 5. Validação Individual dos Campos:
+
+O método `validaUsuario()` está definido, mas não utilizado neste código. Parece ser destinado a validar campos individuais dentro do formulário, mas atualmente retorna `true` por padrão.
+
+### 6. Inicialização:
+
+Por fim, uma instância de `ValidateForm` é criada, o que inicia o processo de validação para o formulário no documento `HTML`.
+
+
+
+
+
+
+## `Código - Login`
 
 <p>Usuário: admin</p>
 <p>Senha: admin</p>
-
-## `Código - Login`
 
 ```JS
 const user = 'admin';
