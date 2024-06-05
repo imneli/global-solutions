@@ -102,9 +102,9 @@ Desenvolvimento de um sistema de previsão de dados utilizando a linguagem de pr
 
 ## Objetivos
 
-<li>`Monitorar continuamente` os parâmetros ambientais dos oceanos.</li>
-<li>Disponibilizar `dados de monitoramento em tempo real` para acesso público.</li>
-<li>Prever `tendências futuras` na poluição dos oceanos e impactos ambientais.</li>
+<li>Monitorar continuamente os parâmetros ambientais dos oceanos.</li>
+<li>Disponibilizar dados de monitoramento em tempo real para acesso público.</li>
+<li>Prever tendências futuras na poluição dos oceanos e impactos ambientais.</li>
 <li>Apoiar tomadores de decisão e organizações ambientais com informações atualizadas.</li>
 
 ## Benefícios
